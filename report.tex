@@ -1,0 +1,91 @@
+\documentclass[10pt]{report}
+
+% ----------------------------
+\input{report_def}
+% ----------------------------
+\newtheorem{definition}{Definition}[section]
+\newtheorem{beweis}{Beweis}[section]
+% ----------------------------
+\begin{document}
+% ----------------------------
+
+% ----------------------------
+\begin{titlepage}
+% ----------------------------
+\begin{center} 
+\vfill
+\includegraphics[width=0.4\textwidth]{./pic/Logo_THM}
+%\includegraphics[width=0.4\textwidth]{./pic/Logo_h_da}
+\vfill
+Fachbereich Mathematik, Naturwissenschaften und Datenverarbeitung\\
+Studiengang Wirtschaftsmathematik
+\vfill
+{\LARGE Abschlussarbeit} \\[0.5cm]
+{\large zur Erlangung des akademischen Grades} \\[0.5cm]
+{\large Bachelor of Science}
+\vfill
+{\Huge LDPC-Codes}
+\vfill
+Vorgelegt von Gianni Malam Ibrahim am \today\\[0.1cm] (Matrikelnummer : 5029044)
+\vfill
+\begin{tabular}{ll}
+Referent     & Prof.\ Dr. Beukemann \\
+Koreferent   & Prof.\ Dr. Kockmann
+\end{tabular}
+\vfill
+\end{center}
+% ----------------------------
+\end{titlepage}
+% ----------------------------
+
+
+% ----------------------------
+\section*{Erkl\"arung}
+% ----------------------------
+\thispagestyle{empty}
+
+Hiermit erkl{\"a}re ich, dass ich die vorliegende Arbeit selbstst{\"a}ndig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Soweit ich auf fremde Materialien, Texte oder Gedankeng{\"a}nge zur{\"u}ckgegriffen habe, enthalten meine Ausf{\"u}hrungen vollst{\"a}ndige und eindeutige Verweise auf die Urheber und Quellen. Alle weiteren Inhalte der vorgelegten Arbeit stammen von mir im urheberrechtlichen Sinn, sowie keine Verweise und Zitate erfolgen. Mit ist bekannt, dass ein T{\"a}uschungsversuch vorliegt, wenn die vorstehende Erkl{\"a}rung sich als unrichtig erweist.\\[1.5cm]
+\parbox{0.5\textwidth}{Friedberg, den \today}%\\[1.5cm]
+\parbox{0.5\textwidth}{
+\begin{center}
+\rule{0.5\textwidth}{0.5pt}\\
+Unterschrift
+\end{center}
+}
+
+
+% ----------------------------
+\tableofcontents
+% ----------------------------
+\listoffigures
+\listoftables
+\input{sections/einleitung.tex}
+% ----------------------------
+% ----------------------------
+\input{sections/grundlagen.tex}
+
+\input{sections/definition.tex}
+
+\input{sections/turbocodes.tex}
+% ----------------------------
+
+% ----------------------------
+\chapter{Aktuelle Anwendungen von LDPC-Codes}
+% ----------------------------
+
+% ----------------------------
+\chapter{Zusammenfassung}
+% ----------------------------
+
+% ----------------------------
+\chapter{Fazit}
+% ----------------------------
+
+\printbibliography
+% ----------------------------
+\appendix
+% ----------------------------
+\chapter{Anhang}
+
+% ----------------------------
+\end{document}

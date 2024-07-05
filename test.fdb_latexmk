@@ -1,0 +1,12 @@
+# Fdb version 4
+["latex"] 1719756931.9012 "test.tex" "test.dvi" "test" 1719756935.84119 2
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/latex.fmt" 1713378939 8221711 bc69666988f3b6e59b98aed571871de1 ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "test.aux" 1719756931.89951 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "test.tex" 1713375363.03207 0 d41d8cd98f00b204e9800998ecf8427e ""
+  (generated)
+  "test.aux"
+  "test.dvi"
+  "test.log"
+  (rewritten before read)

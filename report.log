@@ -1,0 +1,3538 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.17)  5 JUL 2024 18:33
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/raheem/Documents/Gianni/Bachelor/Report/report.tex
+(/Users/raheem/Documents/Gianni/Bachelor/Report/report.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count184
+\c@chapter=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (./report_def.tex (/usr/local/texlive/2024/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count193
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count195
+\Hy@pagecounter=\count196
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count197
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count198
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen142
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count199
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count266
+\c@Item=\count267
+\c@Hfootnote=\count268
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box51
+\c@Hy@AnnotLevel=\count269
+\HyField@AnnotCount=\count270
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip50
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen147
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count273
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count274
+\leftroot@=\count275
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count276
+\DOTSCASE@=\count277
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count278
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count279
+\dotsspace@=\muskip17
+\c@parentequation=\count280
+\dspbrk@lvl=\count281
+\tag@help=\toks20
+\row@=\count282
+\column@=\count283
+\maxfields@=\count284
+\andhelp@=\toks21
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count285
+\csq@gtype=\count286
+\csq@glevel=\count287
+\csq@qlevel=\count288
+\csq@maxlvl=\count289
+\csq@tshold=\count290
+\csq@ltx@everypar=\toks24
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count291
+\Gm@cntv=\count292
+\c@Gm@tempcnt=\count293
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks25
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count294
+\U@D=\dimen164
+\l@unhyphenated=\language89
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count295
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2024/01/19 v2.14 German support for babel (post-1996 orthography)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2024/01/19 v2.14 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 122.
+))) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen165
+\ttl@minus=\dimen166
+\ttl@toksa=\toks28
+\titlewidth=\dimen167
+\titlewidthlast=\dimen168
+\titlewidthfirst=\dimen169
+)
+\c@Definition=\count296
+\c@Theorem=\count297
+\c@Beispiel=\count298
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count299
+\lst@gtempboxa=\box55
+\lst@token=\toks29
+\lst@length=\count300
+\lst@currlwidth=\dimen170
+\lst@column=\count301
+\lst@pos=\count302
+\lst@lostspace=\dimen171
+\lst@width=\dimen172
+\lst@newlines=\count303
+\lst@lineno=\count304
+\lst@maxwidth=\dimen173
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/02/21 1.10 (Carsten Heinz)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
+\c@lstnumber=\count305
+\lst@skipnumbers=\count306
+\lst@framebox=\box56
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/02/21 1.10 listings configuration
+))
+Package: listings 2024/02/21 1.10 (Carsten Heinz)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count307
+\float@exts=\toks30
+\float@box=\box57
+\@float@everytoks=\toks31
+\@floatcapt=\box58
+)
+\@float@every@listing=\toks32
+\c@listing=\count308
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count309
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count310
+\c@listtotal=\count311
+\c@listcount=\count312
+\c@liststart=\count313
+\c@liststop=\count314
+\c@citecount=\count315
+\c@citetotal=\count316
+\c@multicitecount=\count317
+\c@multicitetotal=\count318
+\c@instcount=\count319
+\c@maxnames=\count320
+\c@minnames=\count321
+\c@maxitems=\count322
+\c@minitems=\count323
+\c@citecounter=\count324
+\c@maxcitecounter=\count325
+\c@savedcitecounter=\count326
+\c@uniquelist=\count327
+\c@uniquename=\count328
+\c@refsection=\count329
+\c@refsegment=\count330
+\c@maxextratitle=\count331
+\c@maxextratitleyear=\count332
+\c@maxextraname=\count333
+\c@maxextradate=\count334
+\c@maxextraalpha=\count335
+\c@abbrvpenalty=\count336
+\c@highnamepenalty=\count337
+\c@lownamepenalty=\count338
+\c@maxparens=\count339
+\c@parenlevel=\count340
+\blx@tempcnta=\count341
+\blx@tempcntb=\count342
+\blx@tempcntc=\count343
+\c@blx@maxsection=\count344
+\blx@maxsegment@0=\count345
+\blx@notetype=\count346
+\blx@parenlevel@text=\count347
+\blx@parenlevel@foot=\count348
+\blx@sectionciteorder@0=\count349
+\blx@sectionciteorderinternal@0=\count350
+\blx@entrysetcounter=\count351
+\blx@biblioinstance=\count352
+\labelnumberwidth=\skip56
+\labelalphawidth=\skip57
+\biblabelsep=\skip58
+\bibitemsep=\skip59
+\bibnamesep=\skip60
+\bibinitsep=\skip61
+\bibparsep=\skip62
+\bibhang=\skip63
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language90
+\c@mincomprange=\count353
+\c@maxcomprange=\count354
+\c@mincompwidth=\count355
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count356
+\c@savedafterword=\count357
+\c@annotator=\count358
+\c@savedannotator=\count359
+\c@author=\count360
+\c@savedauthor=\count361
+\c@bookauthor=\count362
+\c@savedbookauthor=\count363
+\c@commentator=\count364
+\c@savedcommentator=\count365
+\c@editor=\count366
+\c@savededitor=\count367
+\c@editora=\count368
+\c@savededitora=\count369
+\c@editorb=\count370
+\c@savededitorb=\count371
+\c@editorc=\count372
+\c@savededitorc=\count373
+\c@foreword=\count374
+\c@savedforeword=\count375
+\c@holder=\count376
+\c@savedholder=\count377
+\c@introduction=\count378
+\c@savedintroduction=\count379
+\c@namea=\count380
+\c@savednamea=\count381
+\c@nameb=\count382
+\c@savednameb=\count383
+\c@namec=\count384
+\c@savednamec=\count385
+\c@translator=\count386
+\c@savedtranslator=\count387
+\c@shortauthor=\count388
+\c@savedshortauthor=\count389
+\c@shorteditor=\count390
+\c@savedshorteditor=\count391
+\c@labelname=\count392
+\c@savedlabelname=\count393
+\c@institution=\count394
+\c@savedinstitution=\count395
+\c@lista=\count396
+\c@savedlista=\count397
+\c@listb=\count398
+\c@savedlistb=\count399
+\c@listc=\count400
+\c@savedlistc=\count401
+\c@listd=\count402
+\c@savedlistd=\count403
+\c@liste=\count404
+\c@savedliste=\count405
+\c@listf=\count406
+\c@savedlistf=\count407
+\c@location=\count408
+\c@savedlocation=\count409
+\c@organization=\count410
+\c@savedorganization=\count411
+\c@origlocation=\count412
+\c@savedoriglocation=\count413
+\c@origpublisher=\count414
+\c@savedorigpublisher=\count415
+\c@publisher=\count416
+\c@savedpublisher=\count417
+\c@language=\count418
+\c@savedlanguage=\count419
+\c@origlanguage=\count420
+\c@savedoriglanguage=\count421
+\c@pageref=\count422
+\c@savedpageref=\count423
+\shorthandwidth=\skip64
+\shortjournalwidth=\skip65
+\shortserieswidth=\skip66
+\shorttitlewidth=\skip67
+\shortauthorwidth=\skip68
+\shorteditorwidth=\skip69
+\locallabelnumberwidth=\skip70
+\locallabelalphawidth=\skip71
+\localshorthandwidth=\skip72
+\localshortjournalwidth=\skip73
+\localshortserieswidth=\skip74
+\localshorttitlewidth=\skip75
+\localshortauthorwidth=\skip76
+\localshorteditorwidth=\skip77
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count424
+\c@textcitetotal=\count425
+\c@textcitemaxnames=\count426
+\c@biburlbigbreakpenalty=\count427
+\c@biburlbreakpenalty=\count428
+\c@biburlnumpenalty=\count429
+\c@biburlucpenalty=\count430
+\c@biburllcpenalty=\count431
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count432
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count433
+\c@bbx:relatedtotal=\count434
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count435
+\l__pdf_internal_box=\box59
+\g__pdf_backend_object_int=\count436
+\g__pdf_backend_annotation_int=\count437
+\g__pdf_backend_link_int=\count438
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2024-02-20 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+)))
+\c@definition=\count439
+\c@beweis=\count440
+
+
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 9.
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+Package hyperref Info: Link coloring OFF on input line 9.
+ (./report.out) (./report.out)
+\@outlinefile=\write4
+\openout4 = `report.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 717.00946pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=717.00946pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count441
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `report.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'report.bbl' found.
+ (./report.bbl)
+Package biblatex Info: Reference section=0 on input line 9.
+Package biblatex Info: Reference segment=0 on input line 9.
+File: ./pic/Logo_THM.pdf Graphic file (type pdf)
+<use ./pic/Logo_THM.pdf>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+] [1] (./report.toc)
+\tf@toc=\write5
+\openout5 = `report.toc'.
+
+ [2
+
+] (./report.lof
+Missing character: There is no ̈ ("308) in font ec-lmr10!
+Missing character: There is no ̈ ("308) in font ec-lmr10!
+)
+\tf@lof=\write6
+\openout6 = `report.lof'.
+
+ [3
+
+] (./report.lot)
+\tf@lot=\write7
+\openout7 = `report.lot'.
+
+ (./sections/einleitung.tex [4
+
+]
+Kapitel 1.
+) (./sections/grundlagen.tex [5
+
+]
+Kapitel 2.
+File: ./pic/LDPC-Codes1.png Graphic file (type bmp)
+<./pic/LDPC-Codes1.png>
+[6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Overfull \hbox (4.33505pt too wide) in paragraph at lines 259--262
+[][]\T1/lmr/m/it/10 Die Ge-ne-ra-tor-ma-trix $\OML/cmm/m/it/10 G$ \T1/lmr/m/it/10 für den $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n; k\OT1/cmr/m/n/10 ]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--285
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 299--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--375
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 420--430
+
+ []
+
+
+Overfull \hbox (12.9028pt too wide) in paragraph at lines 434--437
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--437
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--469
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 503--511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--549
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--577
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--583
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 600--604
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--610
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--628
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--634
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 635--637
+
+ []
+
+) (./sections/definition.tex [13]
+Kapitel 3.
+Missing character: There is no „ ("201E) in font ec-lmri10!
+Missing character: There is no “ ("201C) in font ec-lmri10!
+Missing character: There is no „ ("201E) in font ec-lmri10!
+Missing character: There is no “ ("201C) in font ec-lmri10!
+File: ./pic/Paritätsprüfungsmatrix (12×16) H Für einen (16, 3, 4) LDPC-Code.jpg Graphic file (type bmp)
+<./pic/Paritätsprüfungsmatrix (12×16) H Für einen (16, 3, 4) LDPC-Code.jpg>
+Missing character: There is no ̈ ("308) in font ec-lmr10!
+Missing character: There is no „ ("201E) in font ec-lmri10!
+Missing character: There is no “ ("201C) in font ec-lmri10!
+[14
+
+]
+Overfull \hbox (1.62343pt too wide) in paragraph at lines 40--41
+[][]\T1/lmr/m/it/10 Angenommen, das Code-wort
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 104--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--166
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--273
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--316
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--381
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--398
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--432
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--469
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 470--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--530
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--546
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 547--549
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--553
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--564
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--582
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--588
+
+ []
+
+[22]
+Missing character: There is no ̈ ("308) in font ec-lmr10!
+File: ./pic/Paritätsprüfungsmatrix (15×20) H Für einen (20, 3, 4) LDPC-Code.jpg Graphic file (type bmp)
+<./pic/Paritätsprüfungsmatrix (15×20) H Für einen (20, 3, 4) LDPC-Code.jpg>
+Missing character: There is no ̈ ("308) in font ec-lmr10!
+Missing character: There is no ̈ ("308) in font ec-lmri10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 613--614
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--617
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--623
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--629
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--635
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 636--641
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--653
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 662--670
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 671--673
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--676
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 682--687
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--693
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--699
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 700--705
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--711
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 712--717
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 728--731
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--734
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--745
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--757
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--763
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 764--769
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--775
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 776--785
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--788
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--791
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 798--803
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--815
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--821
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--827
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 828--833
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 834--839
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--847
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--850
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 851--855
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--861
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--867
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--873
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 879--882
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--885
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--890
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--896
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--902
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 903--908
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 909--914
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--917
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--925
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 926--931
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--937
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 938--943
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 951--956
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 957--962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--968
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--971
+
+ []
+
+
+Overfull \hbox (10.511pt too wide) in paragraph at lines 972--979
+\T1/lmr/m/it/10 wort er-rei-chen, so-dass der ur-sprüng-lich emp-fan-ge-ne Vek-tor $\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)$
+ []
+
+Missing character: There is no „ ("201E) in font ec-lmri10!
+Missing character: There is no “ ("201C) in font ec-lmri10!
+Missing character: There is no „ ("201E) in font ec-lmri10!
+Missing character: There is no “ ("201C) in font ec-lmri10!
+
+Overfull \hbox (13.44583pt too wide) in paragraph at lines 987--991
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 992--994
+
+ []
+
+
+Overfull \hbox (7.67685pt too wide) in paragraph at lines 1003--1007
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1003--1007
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1012
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1013--1018
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1024
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1036
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1042
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1048
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1051--1055
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1058
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1065
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1071
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1077
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1083
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1085--1088
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1091
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1098
+
+ []
+
+
+Overfull \hbox (39.2165pt too wide) in paragraph at lines 1099--1104
+\T1/lmr/m/it/10 mus, der eben-falls ei-nen Ab-stand von $\OT1/cmr/m/n/10 2$ \T1/lmr/m/it/10 zum emp-fan-ge-nen Ur-sprungs-vek-tor $\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1110
+
+ []
+
+
+Overfull \hbox (7.67685pt too wide) in paragraph at lines 1116--1118
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1132--1137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1138--1143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1164
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1165--1169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1177--1182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1183--1188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1195--1197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1198--1200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1212--1217
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1230--1232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1233--1235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1236--1240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1268--1271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1272--1276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1279
+
+ []
+
+[32]
+Overfull \hbox (7.67685pt too wide) in paragraph at lines 1290--1292
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1290--1292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1296--1299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1305
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1312--1317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1318--1323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1324--1329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1331--1340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1341--1343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1344--1346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1351
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1359--1364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1365--1370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1371--1376
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1378--1384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1388--1390
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1396--1401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1414--1417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+
+ []
+
+[34]
+Overfull \hbox (66.27045pt too wide) in paragraph at lines 1425--1426
+[]\T1/lmr/m/it/10 Somit wird $\OML/cmm/m/it/10 y[]$ \T1/lmr/m/it/10 mit ei-nem Ab-stand von eins zum emp-fan-ge-nen Ur-sprungs-vek-tor $\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)$
+ []
+
+
+Overfull \hbox (7.67685pt too wide) in paragraph at lines 1444--1446
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1447--1449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1460--1465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1466--1471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1472--1477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1498--1500
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1505
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1506--1511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1519--1524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1532--1534
+
+ []
+
+
+Overfull \hbox (67.29294pt too wide) in paragraph at lines 1535--1536
+[]\T1/lmr/m/it/10 Somit wird $\OML/cmm/m/it/10 y[]$ \T1/lmr/m/it/10 mit ei-nem Ab-stand von zwei zum emp-fan-ge-nen Ur-sprungs-vek-tor $\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1537--1539
+
+ []
+
+
+Overfull \hbox (7.67685pt too wide) in paragraph at lines 1545--1547
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1545--1547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1548--1550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1561--1566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1567--1572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1573--1578
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1579--1585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1591
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1597--1602
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1608
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1614
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1615--1620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1621--1623
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1624--1626
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1627--1631
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1639--1644
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1645--1655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1661
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1662--1666
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1678
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1679--1684
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1685--1690
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1695--1698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1699--1702
+
+ []
+
+
+Overfull \hbox (7.67685pt too wide) in paragraph at lines 1706--1707
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1707
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1708--1709
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1710--1711
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1715
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1716--1721
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1722--1727
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1728--1733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1734--1739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1740--1745
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1746--1749
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1752
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1755
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 1761--1766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1767--1772
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1784--1786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1787--1789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1790--1794
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1795--1800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1806
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1807--1812
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1818
+
+ []
+
+[40]
+Overfull \hbox (6.72206pt too wide) in paragraph at lines 1832--1843
+\T1/lmr/m/it/10 kein gül-ti-ges Code-wort, so-dass der ur-sprüng-lich emp-fan-ge-ne Vek-tor $\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1843
+
+ []
+
+Missing character: There is no ̈ ("308) in font ec-lmri10!
+
+Overfull \hbox (7.67685pt too wide) in paragraph at lines 1849--1852
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1849--1852
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1853--1855
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1856--1859
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1861--1866
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1873--1878
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1884
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1885--1890
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 1898--1906
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1909
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1912
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1917
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1918--1923
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1929
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1935
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1936--1941
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1947
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1951
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1952--1954
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1958--1962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1968
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 1969--1974
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1975--1985
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1988
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1989--1991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1996
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1997--2002
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2008
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2015
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2016--2020
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 2038--2050
+
+ []
+
+
+Overfull \hbox (13.32011pt too wide) in paragraph at lines 2057--2058
+[][]\T1/lmr/m/it/10 Gallagers wei-cher Ent-schei-dungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2059--2060
+
+ []
+
+
+LaTeX Warning: Command \textbackslash invalid in math mode on input line 2068.
+
+
+LaTeX Warning: Command \textbackslash invalid in math mode on input line 2070.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2063--2071
+
+ []
+
+File: ./pic/Tanner Graph.jpeg Graphic file (type bmp)
+<./pic/Tanner Graph.jpeg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2081--2082
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2084--2085
+
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 2086--2087
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2088--2090
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2092
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2093--2095
+
+ []
+
+
+Overfull \hbox (7.94673pt too wide) in paragraph at lines 2098--2098
+|[]\T1/lmr/bx/n/14.4 Vergleich von LDPC-Codes ge-gen-über her-kömm-li-chen Block-
+ []
+
+
+Overfull \hbox (6.82523pt too wide) in paragraph at lines 2103--2106
+[][]\T1/lmr/m/it/10 Bei LDPC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2103--2106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2107--2109
+
+ []
+
+) (./sections/turbocodes.tex [45]
+Kapitel 4.
+File: ./pic/Codierungsgewinn in der Satellitenkommunikation.jpg Graphic file (type bmp)
+<./pic/Codierungsgewinn in der Satellitenkommunikation.jpg>
+[46
+
+]
+Overfull \hbox (3.88387pt too wide) in paragraph at lines 25--29
+[][]\T1/lmr/m/it/10 Ein par-al-lel ver-ket-te-ter Code be-steht aus zwei oder mehr
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+File: ./pic/Parallel verketteter Code mit zwei Komponenten.jpg Graphic file (type bmp)
+<./pic/Parallel verketteter Code mit zwei Komponenten.jpg>
+
+Overfull \hbox (97.37752pt too wide) in paragraph at lines 89--90
+\T1/lmr/m/it/10 ers-ten Bits von $\OML/cmm/m/it/10 x; c[]; c[]$\T1/lmr/m/it/10 , ge-folgt wer-den von den zwei-ten Bits, drit-ten Bits und vier-ten Bits, als $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))\OML/cmm/m/it/10 :$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--187
+
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 329--330
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 331--333
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+[52]
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 334--335
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 336--337
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 338--339
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 340--341
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 342--343
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 344--345
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 346--347
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 348--349
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 350--351
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 352--353
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 354--355
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 356--357
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 358--359
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 360--361
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 371--372
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 373--374
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 375--376
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 377--378
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--394
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--399
+
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--513
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 515--516
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 517--518
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 519--520
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 521--522
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 523--524
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 525--526
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 527--528
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--528
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 529--530
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+
+ []
+
+[56]
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 531--532
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 533--534
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 535--536
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 537--538
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 539--540
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 541--542
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 543--544
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 545--546
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 552--553
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
+
+ []
+
+
+Overfull \hbox (3.83154pt too wide) in paragraph at lines 554--555
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 556--557
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+
+ []
+
+
+Overfull \hbox (7.81767pt too wide) in paragraph at lines 558--559
+[]$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; c[]; c[]\OT1/cmr/m/n/10 ) = ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)) \OMS/cmsy/m/n/10 )$ \T1/lmr/m/it/10 Ord-nungs-al-go-rith-mus: $\OT1/cmr/m/n/10 ((0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 570--571
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
+
+ []
+
+) [58]
+Kapitel 5.
+[59
+
+]
+Kapitel 6.
+[60
+
+]
+Kapitel 7.
+[61
+
+]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 84.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Overfull \hbox (9.3114pt too wide) in paragraph at lines 86--86
+\T1/pcr/m/n/10 / / www . lntwww . de / Kanalcodierung / Allgemeine _ Beschreibung _ linearer _ Blockcodes$[]
+ []
+
+[62
+
+]
+Anhang A.
+[63
+
+] (./report.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 37B3A1C85544E5070D5251FD12520286;4149.
+Package logreq Info: Writing requests to 'report.run.xml'.
+\openout1 = `report.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21023 strings out of 474773
+ 366813 string characters out of 5757724
+ 1940839 words of memory out of 5000000
+ 42907 multiletter control sequences out of 15000+600000
+ 591525 words of font info for 57 fonts, out of 8000000 for 9000
+ 1350 hyphenation exceptions out of 8191
+ 77i,11n,84p,782b,5148s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on report.xdv (64 pages, 254820 bytes).
